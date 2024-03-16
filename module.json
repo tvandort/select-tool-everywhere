@@ -32,8 +32,7 @@
     }
   ],
   "socket": false,
-  "url": "https://github.com/KayelGee/select-tool-everywhere",
-  "manifest": "https://raw.githubusercontent.com/KayelGee/select-tool-everywhere/master/module.json",
-  "download": "https://github.com/KayelGee/select-tool-everywhere/releases/download/v1.4.1/v1.4.1.zip",
+  "url": "https://github.com/tvandort/select-tool-everywhere",
+  "manifest": "https://raw.githubusercontent.com/tvandort/select-tool-everywhere/master/module.json",  
   "readme": "https://github.com/KayelGee/select-tool-everywhere/blob/v1.4.1/README.md"
 }
